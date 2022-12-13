@@ -1,0 +1,92 @@
+/*font face link for brower font*/
+@font-face{
+    font-family: myFont;
+    src:url(Lucida.ttf);
+}
+/*nav*/
+nav{
+    font-family: myFont;
+    font-size:30px;
+}
+
+.nav-item{
+    padding-right: 2rem;
+}
+.nav-link{
+    color: #DBE8E1;
+    
+}
+
+.nav-link:hover {
+    color:#8BC3EC;
+}
+.navbar-text{
+    color: #E10032;
+    text-decoration:underline;
+    font-weight: bolder;
+    font-family: 'Public Sans', sans-serif;
+}
+
+
+
+/*body*/
+
+body{
+    background-color: aliceblue;
+}
+/*header text*/
+.display-4{
+    font-family: myFont;
+}
+
+.lead{
+    font-family: 'Public Sans', sans-serif;
+}
+h1 {
+    color: #151B25;
+}
+
+p{
+    font-family:'Gill Sans', 'Public Sans', sans-serif;
+    color: #034687;
+}
+
+/*Accordion*/
+
+.accordion-button {
+    background-color: aliceblue;
+    font-family: 'Public Sans', sans-serif;
+    font-weight:bolder;
+
+}
+
+.accordion-body{
+    font-family: 'Public Sans', sans-serif;
+}
+
+
+/*Apply Page*/
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-top: 7rem;
+    width: 80rem;
+}
+
+.form-label{
+    font-family: 'Public Sans', sans-serif;
+}
+.card-header{
+    font-family: 'Public Sans', sans-serif;
+}
+.card-body{
+    font-family:'Public Sans', sans-serif;
+}
+
+.card-footer{
+    font-family: 'Public Sans', sans-serif;
+}
+
+
+
+
